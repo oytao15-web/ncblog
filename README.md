@@ -62,7 +62,7 @@
 ### 2. 获取代码
 将本项目克隆或下载到您的 Web 根目录下：
 ```bash
-git clone https://github.com/your-username/ncblog.git
+git clone https://github.com/oytao15-web/ncblog.git
 ```
 
 ### 3. 开始安装
@@ -71,8 +71,7 @@ git clone https://github.com/your-username/ncblog.git
 3. 按照安装向导填写数据库信息、站点信息及管理员账号，点击“一键安装”即可。
 4. 安装完成后，出于安全考虑，系统会自动锁定 `install.php`。
 
-> 💡 **详细配置与运行教程请参阅 [使用教程文件 (USAGE.md)](file:///d:/phpstudy_pro/WWW/blog/ncblog/USAGE.md)**。
-
+> 💡 **详细配置与运行教程请参阅 [使用教程文件 (USAGE.md)]
 ---
 
 ## 📂 目录结构说明
